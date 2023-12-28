@@ -1,0 +1,456 @@
+m255
+K4
+z2
+!s11f vlog 2020.4 2020.10, Oct 13 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dE:/Modelsim_Vivado/lab11_button_process_unit/sim
+T_opt
+!s110 1703245928
+V=gLaBJIk[ZB[NOe5OZzQW0
+04 12 4 work control_tb_v fast 0
+=1-6c24085e7d90-65857868-237-2d20
+Z1 o-quiet -auto_acc_if_foreign -work work +acc
+Z2 tCvgOpt 0
+n@_opt
+Z3 OL;O;2020.4;71
+R0
+T_opt1
+!s110 1703778534
+V1_Mk5^m3gQzI4W2P0@OVY0
+04 9 4 work timing_tb fast 0
+=1-c403a83aaaca-658d98e6-5f-49a4
+R1
+R2
+n@_opt1
+R3
+R0
+T_opt2
+!s110 1703784017
+V5Okk=WkbR8c_3jj>`6IRO2
+04 12 4 work stopwatch_tb fast 0
+=1-6c24085e7d90-658dae50-371-1378
+R1
+R2
+n@_opt2
+R3
+vbin2bcd
+Z4 !s110 1703783365
+!i10b 1
+!s100 zFJ@>XL];8VLVAb=QUHSa1
+Z5 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IPeUAb]RFS9A=ZoCbN<P@i2
+Z6 dE:/Modelsim_Vivado/lab12_stopwatch/sim
+w1703782487
+8E:/Modelsim_Vivado/lab12_stopwatch/src/P_bin2bcd.v
+FE:/Modelsim_Vivado/lab12_stopwatch/src/P_bin2bcd.v
+!i122 45
+L0 2 26
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+Z8 OL;L;2020.4;71
+r1
+!s85 0
+31
+Z9 !s108 1703783365.000000
+!s107 E:/Modelsim_Vivado/lab12_stopwatch/src/P_bin2bcd.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Modelsim_Vivado/lab12_stopwatch/src/P_bin2bcd.v|
+!i113 0
+Z10 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R2
+vButton_controler
+R4
+!i10b 1
+!s100 7j7];RF6Z5U4>k@;;dKVP2
+R5
+IdjWEM;dWW=>91o?5m:g[51
+R6
+w1703244741
+8E:/Modelsim_Vivado/lab12_stopwatch/src/B_contorler.v
+FE:/Modelsim_Vivado/lab12_stopwatch/src/B_contorler.v
+!i122 37
+L0 1 104
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 E:/Modelsim_Vivado/lab12_stopwatch/src/B_contorler.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Modelsim_Vivado/lab12_stopwatch/src/B_contorler.v|
+!i113 0
+R10
+R2
+n@button_controler
+vbutton_unit
+R4
+!i10b 1
+!s100 B8:?O]h2FX`ffX_4:024@1
+R5
+IDJ^9B_dndQ^TBO?e8JX4S1
+R6
+w1703244369
+8E:/Modelsim_Vivado/lab12_stopwatch/src/B_button_process_unit.v
+FE:/Modelsim_Vivado/lab12_stopwatch/src/B_button_process_unit.v
+!i122 36
+L0 1 29
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 E:/Modelsim_Vivado/lab12_stopwatch/src/B_button_process_unit.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Modelsim_Vivado/lab12_stopwatch/src/B_button_process_unit.v|
+!i113 0
+R10
+R2
+vcontrol
+!s110 1703783459
+!i10b 1
+!s100 ]TE`Q2GXIX>B<9LDG]gNb3
+R5
+IeM6hP`GiIE8b>`alNahH72
+R6
+w1703783443
+8E:/Modelsim_Vivado/lab12_stopwatch/src/P_control.v
+FE:/Modelsim_Vivado/lab12_stopwatch/src/P_control.v
+!i122 53
+Z11 L0 1 91
+R7
+R8
+r1
+!s85 0
+31
+!s108 1703783459.000000
+!s107 E:/Modelsim_Vivado/lab12_stopwatch/src/P_control.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Modelsim_Vivado/lab12_stopwatch/src/P_control.v|
+!i113 0
+R10
+R2
+vcontrol_tb_v
+R4
+!i10b 1
+!s100 oaETI5VX^j8iZR_XKdd5h1
+R5
+I=YmDdaiDOkMb1Si4I@o3H0
+R6
+Z12 w1604498990
+8E:/Modelsim_Vivado/lab12_stopwatch/src/control_tb.v
+FE:/Modelsim_Vivado/lab12_stopwatch/src/control_tb.v
+!i122 43
+L0 9 41
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 E:/Modelsim_Vivado/lab12_stopwatch/src/control_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Modelsim_Vivado/lab12_stopwatch/src/control_tb.v|
+!i113 0
+R10
+R2
+vcontroler
+!s110 1703245866
+!i10b 1
+!s100 4GW:zcGN@_Gff9S8zWecS2
+R5
+I?e222;^cLMd>:;G;Ak:h?2
+R6
+w1703245736
+8E:/Modelsim_Vivado/lab12_stopwatch/src/P_controler.v
+FE:/Modelsim_Vivado/lab12_stopwatch/src/P_controler.v
+!i122 8
+R11
+R7
+R8
+r1
+!s85 0
+31
+!s108 1703245865.000000
+!s107 E:/Modelsim_Vivado/lab12_stopwatch/src/P_controler.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Modelsim_Vivado/lab12_stopwatch/src/P_controler.v|
+!i113 0
+R10
+R2
+vcounter_n
+R4
+!i10b 1
+!s100 UjT9GSXgIR[XkYRUJ9nf72
+R5
+I3hDeM:zl24MWEL9oWdgDF0
+R6
+w1703244662
+8E:/Modelsim_Vivado/lab12_stopwatch/src/P_counter_n.v
+FE:/Modelsim_Vivado/lab12_stopwatch/src/P_counter_n.v
+!i122 47
+L0 1 22
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 E:/Modelsim_Vivado/lab12_stopwatch/src/P_counter_n.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Modelsim_Vivado/lab12_stopwatch/src/P_counter_n.v|
+!i113 0
+R10
+R2
+vdebouncer
+R4
+!i10b 1
+!s100 zjbeIED5Q7SP[d<gE0?`i3
+R5
+IP`T<AO]]K]18zBA@WCJ]91
+R6
+w1703244803
+8E:/Modelsim_Vivado/lab12_stopwatch/src/B_debouncer.v
+FE:/Modelsim_Vivado/lab12_stopwatch/src/B_debouncer.v
+!i122 38
+L0 1 30
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 E:/Modelsim_Vivado/lab12_stopwatch/src/B_debouncer.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Modelsim_Vivado/lab12_stopwatch/src/B_debouncer.v|
+!i113 0
+R10
+R2
+vdffer
+R4
+!i10b 1
+!s100 X=<[9_D_OHdMZN6lLa0<m0
+R5
+IgXTNk4lTi8A^M8Q;ocEm>1
+R6
+w1703244558
+8E:/Modelsim_Vivado/lab12_stopwatch/src/B_dffer.v
+FE:/Modelsim_Vivado/lab12_stopwatch/src/B_dffer.v
+!i122 39
+L0 1 26
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 E:/Modelsim_Vivado/lab12_stopwatch/src/B_dffer.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Modelsim_Vivado/lab12_stopwatch/src/B_dffer.v|
+!i113 0
+R10
+R2
+vdisplay
+R4
+!i10b 1
+!s100 ;JNZ19FAPTId20k0F4PH20
+R5
+Im7:R5Z120mOogQLaA64<n3
+R6
+w1702563911
+8E:/Modelsim_Vivado/lab12_stopwatch/src/D_display.v
+FE:/Modelsim_Vivado/lab12_stopwatch/src/D_display.v
+!i122 44
+L0 1 83
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 E:/Modelsim_Vivado/lab12_stopwatch/src/D_display.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Modelsim_Vivado/lab12_stopwatch/src/D_display.v|
+!i113 0
+R10
+R2
+vPulseWidth_conver
+R4
+!i10b 1
+!s100 3=k1A[25zElikSnHoPk`30
+R5
+Ihkj@TMd3im@^<nhU]ocHJ1
+R6
+w1703244570
+8E:/Modelsim_Vivado/lab12_stopwatch/src/B_PulseWidth_conver.v
+FE:/Modelsim_Vivado/lab12_stopwatch/src/B_PulseWidth_conver.v
+!i122 40
+L0 1 15
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 E:/Modelsim_Vivado/lab12_stopwatch/src/B_PulseWidth_conver.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Modelsim_Vivado/lab12_stopwatch/src/B_PulseWidth_conver.v|
+!i113 0
+R10
+R2
+n@pulse@width_conver
+vstopwatch
+!s110 1703784006
+!i10b 1
+!s100 G3dR7WN5GiC2XzM8]WK5R0
+R5
+I9Z:BUYIBZ?OKEfe0@DdoG0
+R6
+w1703783997
+8E:/Modelsim_Vivado/lab12_stopwatch/src/0_StopWatch.v
+FE:/Modelsim_Vivado/lab12_stopwatch/src/0_StopWatch.v
+!i122 54
+L0 1 64
+R7
+R8
+r1
+!s85 0
+31
+!s108 1703784006.000000
+!s107 E:/Modelsim_Vivado/lab12_stopwatch/src/0_StopWatch.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Modelsim_Vivado/lab12_stopwatch/src/0_StopWatch.v|
+!i113 0
+R10
+R2
+vstopwatch_tb
+R4
+!i10b 1
+!s100 h5;2C^82`8mgdB^<Kk41m2
+R5
+IQN9l`cSYY`Bf`ehGZ1Dl:1
+R6
+R12
+8E:/Modelsim_Vivado/lab12_stopwatch/src/stopwatch_tb.v
+FE:/Modelsim_Vivado/lab12_stopwatch/src/stopwatch_tb.v
+!i122 48
+L0 9 72
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 E:/Modelsim_Vivado/lab12_stopwatch/src/stopwatch_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Modelsim_Vivado/lab12_stopwatch/src/stopwatch_tb.v|
+!i113 0
+R10
+R2
+vsynchronizer
+R4
+!i10b 1
+!s100 8_bn5ceUObk4<=hSVgS_[2
+R5
+IRn<oBIHc23F1F92E9oei;1
+R6
+w1703244587
+8E:/Modelsim_Vivado/lab12_stopwatch/src/B_synchronizer.v
+FE:/Modelsim_Vivado/lab12_stopwatch/src/B_synchronizer.v
+!i122 41
+L0 1 16
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 E:/Modelsim_Vivado/lab12_stopwatch/src/B_synchronizer.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Modelsim_Vivado/lab12_stopwatch/src/B_synchronizer.v|
+!i113 0
+R10
+R2
+vtimer
+R4
+!i10b 1
+!s100 biz4A?>KT@@=O]Lbh6OnY0
+R5
+IGdWn4VS2NHl[YIC5Y9_o`2
+R6
+w1703242080
+8E:/Modelsim_Vivado/lab12_stopwatch/src/B_timer.v
+FE:/Modelsim_Vivado/lab12_stopwatch/src/B_timer.v
+!i122 42
+L0 1 45
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 E:/Modelsim_Vivado/lab12_stopwatch/src/B_timer.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Modelsim_Vivado/lab12_stopwatch/src/B_timer.v|
+!i113 0
+R10
+R2
+vtiming
+R4
+!i10b 1
+!s100 Zc@YoOK83cHcOZK]9PP3A1
+R5
+I_4Xi@Lh4[mmXOz4IFQYbV1
+R6
+w1703778430
+8E:/Modelsim_Vivado/lab12_stopwatch/src/T_timing.v
+FE:/Modelsim_Vivado/lab12_stopwatch/src/T_timing.v
+!i122 50
+L0 1 27
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 E:/Modelsim_Vivado/lab12_stopwatch/src/T_timing.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Modelsim_Vivado/lab12_stopwatch/src/T_timing.v|
+!i113 0
+R10
+R2
+vtiming_counter
+R4
+!i10b 1
+!s100 NO5eMBWCZ_9eDjRL7UlMG1
+R5
+Ik<4@nW661TIOZ8iSA[ZCE0
+R6
+w1703765677
+8E:/Modelsim_Vivado/lab12_stopwatch/src/T_counter.v
+FE:/Modelsim_Vivado/lab12_stopwatch/src/T_counter.v
+!i122 49
+L0 1 35
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 E:/Modelsim_Vivado/lab12_stopwatch/src/T_counter.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Modelsim_Vivado/lab12_stopwatch/src/T_counter.v|
+!i113 0
+R10
+R2
+vtiming_tb
+!s110 1703783366
+!i10b 1
+!s100 KOnWN1N33jUlV`IeL@3VA1
+R5
+I<2Ozc_DODdLzWzTO]9EPf3
+R6
+w1703248735
+8E:/Modelsim_Vivado/lab12_stopwatch/src/timing_tb.v
+FE:/Modelsim_Vivado/lab12_stopwatch/src/timing_tb.v
+!i122 51
+L0 8 36
+R7
+R8
+r1
+!s85 0
+31
+!s108 1703783366.000000
+!s107 E:/Modelsim_Vivado/lab12_stopwatch/src/timing_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|E:/Modelsim_Vivado/lab12_stopwatch/src/timing_tb.v|
+!i113 0
+R10
+R2

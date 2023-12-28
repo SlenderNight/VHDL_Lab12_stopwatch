@@ -1,0 +1,113 @@
+E:/Modelsim_Vivado/lab12_stopwatch/src/B_timer.v {1 {vlog -work work -vopt -stats=none E:/Modelsim_Vivado/lab12_stopwatch/src/B_timer.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module timer
+
+Top level modules:
+	timer
+
+} {} {}} E:/Modelsim_Vivado/lab12_stopwatch/src/T_timing.v {1 {vlog -work work -vopt -stats=none E:/Modelsim_Vivado/lab12_stopwatch/src/T_timing.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module timing
+
+Top level modules:
+	timing
+
+} {} {}} E:/Modelsim_Vivado/lab12_stopwatch/src/T_counter.v {1 {vlog -work work -vopt -stats=none E:/Modelsim_Vivado/lab12_stopwatch/src/T_counter.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module timing_counter
+
+Top level modules:
+	timing_counter
+
+} {} {}} E:/Modelsim_Vivado/lab12_stopwatch/src/P_bin2bcd.v {1 {vlog -work work -vopt -stats=none E:/Modelsim_Vivado/lab12_stopwatch/src/P_bin2bcd.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module bin2bcd
+
+Top level modules:
+	bin2bcd
+
+} {} {}} E:/Modelsim_Vivado/lab12_stopwatch/src/P_counter_n.v {1 {vlog -work work -vopt -stats=none E:/Modelsim_Vivado/lab12_stopwatch/src/P_counter_n.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module counter_n
+
+Top level modules:
+	counter_n
+
+} {} {}} E:/Modelsim_Vivado/lab12_stopwatch/src/D_display.v {1 {vlog -work work -vopt -stats=none E:/Modelsim_Vivado/lab12_stopwatch/src/D_display.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module display
+
+Top level modules:
+	display
+
+} {} {}} E:/Modelsim_Vivado/lab12_stopwatch/src/B_contorler.v {1 {vlog -work work -vopt -stats=none E:/Modelsim_Vivado/lab12_stopwatch/src/B_contorler.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module Button_controler
+
+Top level modules:
+	Button_controler
+
+} {} {}} E:/Modelsim_Vivado/lab12_stopwatch/src/stopwatch_tb.v {1 {vlog -work work -vopt -stats=none E:/Modelsim_Vivado/lab12_stopwatch/src/stopwatch_tb.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module stopwatch_tb
+
+Top level modules:
+	stopwatch_tb
+
+} {} {}} E:/Modelsim_Vivado/lab12_stopwatch/src/B_button_process_unit.v {1 {vlog -work work -vopt -stats=none E:/Modelsim_Vivado/lab12_stopwatch/src/B_button_process_unit.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module button_unit
+
+Top level modules:
+	button_unit
+
+} {} {}} E:/Modelsim_Vivado/lab12_stopwatch/src/0_StopWatch.v {1 {vlog -work work -vopt -stats=none E:/Modelsim_Vivado/lab12_stopwatch/src/0_StopWatch.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module stopwatch
+
+Top level modules:
+	stopwatch
+
+} {} {}} E:/Modelsim_Vivado/lab12_stopwatch/src/timing_tb.v {1 {vlog -work work -vopt -stats=none E:/Modelsim_Vivado/lab12_stopwatch/src/timing_tb.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module timing_tb
+
+Top level modules:
+	timing_tb
+
+} {} {}} E:/Modelsim_Vivado/lab12_stopwatch/src/control_tb.v {1 {vlog -work work -vopt -stats=none E:/Modelsim_Vivado/lab12_stopwatch/src/control_tb.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module control_tb_v
+
+Top level modules:
+	control_tb_v
+
+} {} {}} E:/Modelsim_Vivado/lab12_stopwatch/src/B_PulseWidth_conver.v {1 {vlog -work work -vopt -stats=none E:/Modelsim_Vivado/lab12_stopwatch/src/B_PulseWidth_conver.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module PulseWidth_conver
+
+Top level modules:
+	PulseWidth_conver
+
+} {} {}} E:/Modelsim_Vivado/lab12_stopwatch/src/B_synchronizer.v {1 {vlog -work work -vopt -stats=none E:/Modelsim_Vivado/lab12_stopwatch/src/B_synchronizer.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module synchronizer
+
+Top level modules:
+	synchronizer
+
+} {} {}} E:/Modelsim_Vivado/lab12_stopwatch/src/B_dffer.v {1 {vlog -work work -vopt -stats=none E:/Modelsim_Vivado/lab12_stopwatch/src/B_dffer.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module dffer
+
+Top level modules:
+	dffer
+
+} {} {}} E:/Modelsim_Vivado/lab12_stopwatch/src/B_debouncer.v {1 {vlog -work work -vopt -stats=none E:/Modelsim_Vivado/lab12_stopwatch/src/B_debouncer.v
+Model Technology ModelSim SE-64 vlog 2020.4 Compiler 2020.10 Oct 13 2020
+-- Compiling module debouncer
+
+Top level modules:
+	debouncer
+
+} {} {}}
